@@ -1,7 +1,7 @@
 
 # Priority Queue Training
 Code for blog post [HardMiningForRobustClassification](https://berndprach.github.io/blog-posts/2024/12/HardMiningForRobustClassification/).
-This repository contains the code for the [HighestLossQueue]() and further the code to train 1-Lipschitz models.
+This repository contains the code for the [HighestLossQueue](src/training_queues/highest_loss_queue.py) and further the code to train 1-Lipschitz models.
 
 ## Usage:
 
